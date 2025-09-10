@@ -1,4 +1,4 @@
-baseURL = "https://thienluhoan.github.io/workshop-template/"
+baseURL = "https://leluc2k4.github.io/Workshop-AWS-1/"
 relativeURLs = true
 canonifyURLs = true
 
@@ -13,7 +13,7 @@ home = [ "HTML", "RSS", "JSON"]
   # Change default color scheme with a variant one. Can be "red", "blue", "green".
   themeVariant = "workshop"
   # Git hub repo link
-  editURL = ""
+  editURL = "https://github.com/leluc2k4/Workshop-AWS-1/edit/main/content/"
   description = ""
   author = "thienlh@thienlu.com"
   showVisitedLinks = true
@@ -22,7 +22,7 @@ home = [ "HTML", "RSS", "JSON"]
   
 [Languages]
 [Languages.en]
-title = "Internship Report"
+title = "Workshop AWS"
 weight = 1
 languageName = "English"
 
@@ -33,7 +33,7 @@ url = "https://www.facebook.com/groups/awsstudygroupfcj/"
 weight = 20
 
 [Languages.vi]
-title = "Báo cáo thực tập"
+title = "Hội thảo AWS"
 weight = 2
 languageName = "Tiếng Việt"
 
